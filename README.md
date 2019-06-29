@@ -1,2 +1,2 @@
 # DS_SQL
-UCD@coursera
+UCD @ coursera
